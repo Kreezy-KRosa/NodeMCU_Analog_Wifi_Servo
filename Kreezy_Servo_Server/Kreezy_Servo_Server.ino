@@ -1,3 +1,7 @@
+//Analog Controlled Wifi Servo Example Code
+//By Kreezy(KRosa) 1.15.2018
+
+//Upload this to the Server NodeMCU
 
 #include <ESP8266WiFi.h>
 
